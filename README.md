@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate software developer with a strong interest in software architecture and a wealth of experience in mobile application development using React Native. I'm eager to explore new horizons, including Flutter, Go (Golang), and the exciting realm of cybersecurity.
+I'm a passionate software developer with a strong interest in software architecture and a wealth of experience in mobile application development using React Native. I'm dedicated to building innovative and secure solutions, with a particular focus on protecting users' personal data. I'm eager to explore new horizons, including Flutter, Go (Golang), and the exciting realm of cybersecurity.
 
 ## Skills
 
