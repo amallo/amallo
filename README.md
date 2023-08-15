@@ -1,16 +1,19 @@
-### Hi there 👋
+🖐️ Hi !
 
-<!--
-**amallo/amallo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a passionate software developer with a strong interest in software architecture and a wealth of experience in mobile application development using React Native. I'm eager to explore new horizons, including Flutter, Go (Golang), and the exciting realm of cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Mobile App Development: React Native, Flutter (in progress)
+- Backend Development: Go (Golang), RESTful APIs
+- Software Architecture: Design patterns, Clean Architecture
+- Cybersecurity: Secure coding practices
+
+
+## Contact
+
+Feel free to reach out to me via email at <share+gitcontact@app2b.io>. You can also find me on [LinkedIn](https://www.linkedin.com/in/audie-app2b>) for professional networking.
+
+Looking forward to connecting with fellow developers and enthusiasts!
