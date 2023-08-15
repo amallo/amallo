@@ -8,7 +8,7 @@ I'm a passionate software developer with a strong interest in software architect
 
 - Mobile App Development: React Native, Flutter (in progress)
 - Backend Development: Go (Golang), RESTful APIs
-- Software Architecture: Design patterns, Clean Architecture
+- Software Design: Design patterns, Clean Architecture
 - Cybersecurity: Secure coding practices
 
 
