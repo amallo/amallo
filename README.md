@@ -1,19 +1,24 @@
-🖐️ Hi !
+## 👋 About Me
 
-## About Me
+I'm a passionate **software developer** with a deep interest in **AI Vision** and building high-quality, scalable applications. My experience spans mobile development with **React Native**, and I'm committed to creating solutions that are **reliable**, **efficient**, and capable of growing with user needs.
 
-I'm a passionate software developer with a strong interest in software architecture and a wealth of experience in mobile application development using React Native. I'm dedicated to building innovative and secure solutions, with a particular focus on protecting users' personal data. I'm eager to explore new horizons, including Flutter, Go (Golang), and the exciting realm of cybersecurity and blockchain area.
+### 🚀 What Drives Me
 
-## Skills
+- **AI Vision**: I’m fascinated by the intersection of machine learning and visual processing. My current focus is on leveraging the latest advancements in **computer vision** to build intelligent systems that push boundaries.
+- **Scalable Software**: Crafting applications that can scale effortlessly as user demands grow is at the heart of my development philosophy. I love using clean architecture and best practices to ensure high-performance at scale.
 
-- Mobile App Development: React Native, Flutter (in progress)
-- Backend Development: Go (Golang), RESTful APIs
-- Software Design: Design patterns, Clean Architecture
-- Cybersecurity: Secure coding practices
+### 🛠️ My Toolbox
 
+- **Mobile Development**: React Native (expert), Flutter (in progress)
+- **Backend**: Go (Golang), RESTful APIs
+- **Software Design**: Design patterns, Clean Architecture, Scalable systems
+- **AI Vision**: Computer Vision pipelines, Stable Diffusion, Canny, Inpainting
+- **Cybersecurity**: Secure coding, privacy-first design
 
-## Contact
+### 🎯 Projects and Contributions
 
-Feel free to reach out to me via email at <share+gitcontact@app2b.io>. You can also find me on [LinkedIn](https://www.linkedin.com/in/audie-app2b>) for professional networking.
+- **Transvers.ai**: My latest project, combining AI Vision and innovative development approaches to create a unique and scalable platform.
 
-Looking forward to connecting with fellow developers and enthusiasts!
+### 📬 Let's Connect
+
+Feel free to reach out via [Email](mailto:audie@app2b.io) or connect with me on [LinkedIn](https://linkedin.com).
