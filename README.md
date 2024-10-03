@@ -9,10 +9,10 @@ I'm a passionate **software developer** with a deep interest in **AI Vision** an
 
 ### 🛠️ My Toolbox
 
-- **Mobile Development**: React Native (expert), Flutter (in progress)
-- **Backend**: Go (Golang), RESTful APIs
+- **Mobile Development**: React Native (expert)
+- **Backend**: Go (Golang), RESTful APIs, python (in progress)
 - **Software Design**: Design patterns, Clean Architecture, Scalable systems
-- **AI Vision**: Computer Vision pipelines, Stable Diffusion, Canny, Inpainting
+- **AI Vision**(in progress): Computer Vision pipelines, Stable Diffusion, Canny, Inpainting
 - **Cybersecurity**: Secure coding, privacy-first design
 
 ### 🎯 Projects and Contributions
