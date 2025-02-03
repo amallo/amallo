@@ -17,7 +17,7 @@ I'm a passionate **software developer** with a deep interest in **AI Vision** an
 
 ### 🎯 Projects and Contributions
 
-- **Transvers.ai**: My latest project, combining AI Vision and innovative development approaches to turn your photos into post apocalyptic universe.
+- **[Transvers](https://transvers-art.com/)**: My latest project, combining AI Vision and innovative development approaches to turn your photos into post apocalyptic universe.
 
 ### 📬 Let's Connect
 
